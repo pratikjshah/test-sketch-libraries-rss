@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+    <title>
+        <![CDATA[mylib]]>
+    </title>
+    <description>
+        <![CDATA[mylib]]>
+    </description>
+    <link>https://sketch.cloud/s/ZKQeJ</link>
+    <image>
+        <url>https://resources-live.sketch.cloud/files/479adc4e-3eda-47ba-b32e-6c7528d9787e.png?Signature=PlDjNmvrBKRRyQvkISoHdwzabIdt03e~RrD7LDmnGuxCnahjlDrO5zq8lPIal2b~j-k9~4nOImu5MjQKOmHF40EV4~Y8rKY0noXh3MuYCJEPhB3uo5zJj5KZMpMGyzTGL0VWPNDz00kOyhFM~GmwiI50VdJi0iV3ffrF~6KVobI_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA</url>
+        <title>colors</title>
+        <link>https://sketch.cloud/s/ZKQeJ</link>
+    </image>
+    <generator>Sketch</generator>
+    <lastBuildDate>Sat, 15 Dec 2018 00:54:00 GMT</lastBuildDate>
+    <language>
+        <![CDATA[en]]>
+    </language>
+    <item>
+        <title>
+            <![CDATA[mylib]]>
+        </title>
+        <description>
+            <![CDATA[mylib]]>
+        </description>
+        <guid isPermaLink="false">9e57fd1d-9523-4b58-aa62-2b487b07214d</guid>
+        <pubDate>Wed, 13 Jun 2018 18:11:55 +0000</pubDate>
+        <link>https://sketch.cloud/s/ZKQeJ</link>
+        <enclosure url="https://client.sketch.cloud/v1/documents/9e57fd1d-9523-4b58-aa62-2b487b07214d/download/mylib.sketch?token=" length="4611" type="application/octet-stream" sparkle:version="1"/>
+    </item>
+</channel>
+</rss>
